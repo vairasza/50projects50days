@@ -1,0 +1,21 @@
+{
+  "name": "expanding_cards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vairasza/expanding_cards.git"
+  },
+  "keywords": ["basic web dev"],
+  "author": "vairasza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vairasza/expanding_cards/issues"
+  },
+  "homepage": "https://github.com/vairasza/expanding_cards#readme"
+}
